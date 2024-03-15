@@ -4,4 +4,5 @@ class Solution:
         t_sort = ''.join(sorted(t))
         return s_sort == t_sort
 
+
         
